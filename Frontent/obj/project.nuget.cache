@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GyBwNwcmLk/UbfK2+pHsiytUF2nXDI6jlrMK7XlPC8u5Mb/UDk1NZ8KNx7C0OFrIi+xcnXCWPIaUYaEMfeJQBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rukiye Doğru\\source\\repos\\NorthwindBackendd\\Frontent\\Frontent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rukiye Doğru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
