@@ -1,0 +1,2 @@
+# NorthwindBackendd
+ Dependency Injection ve Autofac İmplementasyonu, JWT konfigürasyonu, Error ve Success Result Yönetimi, Extension yazma, AOP ve Cross Cutting alt yapıları, Cache işlemleri, Validation Kurallarını yazma, Fluent Validation İmplementasyonu, Authorization alt yapısı, Loglama işlemleri, Backend seviyesinde Exception Handling, Frontend seviyesi için global Exception Handling işlemleri yapıldı
